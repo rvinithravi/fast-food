@@ -1,1 +1,1 @@
-# fast-food
+Market segmentation analysis of McDonalds
